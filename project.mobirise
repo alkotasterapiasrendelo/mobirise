@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alkotás Rendelő",
-    "currentPage": "page25.html",
+    "currentPage": "fooldal.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -106,7 +106,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő szakemberei",
         "title": "Munkatársaink",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1492,7 +1492,7 @@
       "settings": {
         "meta_descr": "Írások az Alkotás Terápiás Rendelő Szakembereitől",
         "title": "Írásaink",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2169,7 +2169,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Mintacikk",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2807,7 +2807,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő szakemberei",
         "title": "Szakembereink",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3863,7 +3863,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Dr. Ráki Júlia",
         "title": "Dr. Ráki Júlia",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4563,7 +4563,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Pusztai Eszter",
         "title": "Pusztai Eszter",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -5263,7 +5263,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Somogyi Nóra",
         "title": "Somogyi Nóra",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -5963,7 +5963,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Tolnai Nóra",
         "title": "Tolnai Nóra",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -6701,7 +6701,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Nyeste Hajnalka",
         "title": "Nyeste Hajnalka",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -7401,7 +7401,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Végvári Annamária",
         "title": "Végvári Annamária",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -8101,7 +8101,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Kiss Júlia",
         "title": "Kiss Júlia",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -8801,7 +8801,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Kószó Andrea",
         "title": "Kószó Andrea",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -9501,7 +9501,7 @@
       "settings": {
         "meta_descr": "Alkotás Terápiás Rendelő - Harnos Zsuzsanna",
         "title": "Harnos Zsuzsanna",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -10182,7 +10182,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Lökkös Attila",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -10882,7 +10882,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Csapó Éva",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -16404,7 +16404,7 @@
         "main": true,
         "title": "Főoldal",
         "meta_descr": "Az Alkotás Terápiás Rendelő -  igényes környezetben, több területről érkező szakember közreműködésével, komplex segítség.",
-        "header_custom": "",
+        "header_custom": "<!-- open graph description -->\n<meta property=\"og:title\" content=\"Alkotás Terápiás Rendelő\">\n<meta property=\"og:description\" content=\"Igényes környezetben, több területről érkező szakember közreműködésével, komplex segítség.!\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"http://my-mobirise-page.com\">\n<meta property=\"og:image\" content=\"C:\\Users\\totht\\Desktop\\Vivi\\Alkotás honlap\\Alkotás honlap – átadás Timinek 0404\\assets\\images\">\n<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta property=\"og:image:width\" content=\"1200\" />\n<meta property=\"og:image:height\" content=\"800\" />\n<!-- open graph END -->",
         "footer_custom": "",
         "html_before": ""
       },
